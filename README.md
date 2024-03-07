@@ -1,6 +1,10 @@
 ## LLD System Design Code in TS for Online Trading Platform
 
+### UseCase Diagram
+![image](https://github.com/gaurangkeluskar22/LLD-TS-code-for-online-trading-system/assets/43683829/014ba4dc-d91a-47eb-8aaf-cdde42d6fdf4)
 
+## Class Diagram 
+![image](https://github.com/gaurangkeluskar22/LLD-TS-code-for-online-trading-system/assets/43683829/bc740b16-eebf-4f37-8c18-513995c44360)
 
 ### User Details
 ![image](https://github.com/gaurangkeluskar22/LLD-TS-code-for-online-trading-system/assets/43683829/56858741-96ed-43f6-98c0-15a2305bae68)
